@@ -1,7 +1,7 @@
 # Machine-learning_repeat-customers
 
 ## Problem background
-It is important for merchants to identify the people who can become repeat customers to reduce the promotion cost in the long run. Given the data of shopping logs of customers, try to predict if buyers would become repeat customers in the future. This is a classification task, label 1: repeat customer; label 0: non-repeat customer. The evaluation metric is auc.
+It is important for merchants to identify the people who can become repeat customers to reduce the promotion cost in the long run. Given the data of shopping logs of customers, try to predict if buyers would become repeat customers in the future. This is a classification task, label 1: repeat customer; label 0: non-repeat customer. The evaluation metric is AUC.
 
 ## Data description
 User_info: [user_id, age_range, gender]  
